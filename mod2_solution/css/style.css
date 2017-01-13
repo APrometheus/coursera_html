@@ -55,16 +55,16 @@ section {
 	float: right;
 }
 
-#sushi h1 {
+#sushi h2 {
 	background-color: yellow;
 }
 
-#beef h1{
+#beef h2 {
 	color: white;
 	background-color: red;
 }
 
-#chicken h1{
+#chicken h2 {
 	background-color: pink;
 }
 
