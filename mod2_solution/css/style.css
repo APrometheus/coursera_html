@@ -37,7 +37,7 @@ section {
 	margin-right: auto;
 	margin-bottom: 5%;
 	background: #c6c6c6;
-	border: 2px solid black;
+	border: 1px solid black;
 }
 
 .sec-head {
@@ -45,8 +45,8 @@ section {
 	min-height: 46px;
 	font-size: 26px;
 	padding: 10px;
-	border-bottom: 2px solid black;
-	border-left: 2px solid black;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
 	margin-top: 0px;
 	margin-right: 0px;
 	margin-left: 56%;
